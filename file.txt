@@ -1,1 +1,19 @@
 Hello World!
+
+Touch file.txt (Create)
+Git add .
+Git commit -m “comment”
+Git push origin main
+
+Git status
+
+Git branch joel (create branch)
+Git checkout joel (move into branch)
+Git status
+(make changes locally)
+Git add .
+Git commit -m “comment”
+Git push origin joel
+
+(merge in github website)
+Git checkout main
